@@ -1,0 +1,3 @@
+/home/k1ngdavid/Téléchargements/CSocket-master/SocketClient/cmake-build-debug/CMakeFiles/SocketClient.dir
+/home/k1ngdavid/Téléchargements/CSocket-master/SocketClient/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/k1ngdavid/Téléchargements/CSocket-master/SocketClient/cmake-build-debug/CMakeFiles/rebuild_cache.dir

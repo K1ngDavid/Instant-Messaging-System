@@ -1,0 +1,1 @@
+/usr/bin/cc -g CMakeFiles/SocketClient.dir/main.c.o -o SocketClient  /home/k1ngdavid/Téléchargements/CSocket-master/SocketUtil/cmake-build-debug/libSocketUtil.a 
